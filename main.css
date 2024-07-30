@@ -1,0 +1,62 @@
+.name{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Nanum Gothic", sans-serif;
+    margin-top: 10px;
+}
+
+.job{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Nanum Gothic", sans-serif;
+    margin-top: -20px;
+}
+
+.detail{
+    text-align: center;
+    font-size: 13px;
+    margin-top: -20px;
+    font-family: "Nanum Gothic", sans-serif;
+    color: gray;
+}
+
+.link{
+    text-decoration-line: none;
+    color: gold;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.main-img{
+    width :60%;
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub-img{
+    width :60%;
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.box{
+    width: 50%;
+    height:400px;
+    background-color: yellow;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.box-text1{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Nanum Gothic", sans-serif;
+    margin-top: 30px;
+}
